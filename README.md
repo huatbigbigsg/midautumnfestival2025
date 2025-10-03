@@ -128,3 +128,6 @@ Happy Mid‑Autumn Festival!
 
 
 [1]: https://github.com/harshpareshbhaigosalya/midautumnfestival2025 "GitHub - harshpareshbhaigosalya/midautumnfestival2025: Vibe coded website to celebrate Mid Autumn Festival 2025 in Singapore"
+=======
+# Mid autumn festival 2025
+Vibe coded website to celebrate Mid Autumn Festival 2025 in Singapore
